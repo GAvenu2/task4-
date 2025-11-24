@@ -1,2 +1,2 @@
-# task4-
-Setup and Use a Firewall on Windows
+# task4-Setup and Use a Firewall on Windows
+Understood to configure, test, and manage Windows Firewall using both GUI , including viewing rules, creating block/allow rules, testing connectivity, and understanding how the firewall filters network traffic.Newly created rules immediately affected network traffic.Blocking port 23 results in failed Test-NetConnection responses.Rule removal restored normal connectivity Windows Firewall applied rules consistently across all network profiles. And finally i eas able to understand that Windows Firewall protects the system by applying rules that allow or block applications, ports, and network traffic based on IPs, protocols, and direction.
